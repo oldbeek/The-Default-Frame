@@ -13,6 +13,7 @@ To put together this frame you will need:
 * Two sheets of 3/4 Plywood
 * Two bricks
 * Wood glue
+* 1/4" x 2' wood dowel
 
 The dimensions of the lumber are not critical, so if 2x4s are not available in your area, the equivalent lumber will work.
 
@@ -137,7 +138,7 @@ Attach the top bar by screwing through it and into the two beams.
 
 ### Step 11: Stand up the frame and attach plywood
 
-Stand up the frame and attach the sheet of plywood which will makeup the back of the machine. Attach the plywood using a few screws near the edges of the plywood. It is not structural and having too many screws especially in the center of the sheet increases the odds of hitting one accidentally while cutting.
+Stand up the frame and attach the sheet of plywood which will makeup the back of the machine. Attach the plywood using dowels. Drill 1/4" holes through the plywood and 1/2" into the 2x4 where you need but, at minimum near each corner. Apply wood glue in each hole with a small stick or cotton swab and pound a 1/4" dowel (1.5" long) firmly into the hole. Saw off any protruding dowel then sand, chisel or plane smooth.
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/The-Default-Frame/master/Pictures/Plywood%20in%20place.jpg)
 
